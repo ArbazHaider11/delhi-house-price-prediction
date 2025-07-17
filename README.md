@@ -11,9 +11,6 @@ The goal of this project is to create a price prediction model for residential p
 Although implemented on a **small-scale dataset**, the pipeline is **scalable** and can easily accommodate **larger datasets** with similar structure and go through the **same preprocessing, modeling, and prediction flow**.
 
 ---
-### 🧾 Project Overview Poster
-
-(![Project Overview Poster](https://raw.githubusercontent.com/ArbazHaider11/delhi-house-price-prediction/main/project_poster.png))
 
 ## 🛠️ Tools & Technologies
 
