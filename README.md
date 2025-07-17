@@ -13,7 +13,7 @@ Although implemented on a **small-scale dataset**, the pipeline is **scalable** 
 ---
 ### 🧾 Project Overview Poster
 
-![Project Poster](media/project_poster.png)
+![Project Poster](project_poster.png)
 
 ## 🛠️ Tools & Technologies
 
