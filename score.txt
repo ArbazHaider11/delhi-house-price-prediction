@@ -1,2 +1,14 @@
 The cross value score of the model is [114.93060061  89.56547037 126.30670253  85.28337157 134.0685804
 69.37005688 104.81877527 129.70171217  99.2353822  127.22172827]
+
+### 📊 Model Comparison
+
+To determine the most suitable algorithm for this regression task, multiple models were trained and evaluated using 10-fold cross-validation based on Root Mean Squared Error (RMSE). The comparison is as follows:
+
+| Model              | Mean RMSE |
+|-------------------|-----------|
+| Linear Regression | 163.80    |
+| Decision Tree     | 148.47    |
+| Random Forest     | 107.14    |
+
+✅ **Random Forest** was chosen as the final model due to its significantly better performance in terms of prediction error.
