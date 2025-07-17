@@ -80,7 +80,7 @@ This project is licensed under the **MIT License** — feel free to use, modify,
 
 **Arbaz Haider**  
 Third-year B.Tech CSE (AIML Specialization)  
-[LinkedIn](https://www.linkedin.com/in/arbazhaider)
+[LinkedIn](https://www.linkedin.com/in/arbazhaider11042005/)
 
 ---
 
