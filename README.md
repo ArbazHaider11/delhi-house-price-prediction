@@ -13,7 +13,7 @@ Although implemented on a **small-scale dataset**, the pipeline is **scalable** 
 ---
 ### 🧾 Project Overview Poster
 
-![Project Poster](project_poster.png)
+(![Project Overview Poster](https://raw.githubusercontent.com/ArbazHaider11/delhi-house-price-prediction/main/project_poster.png))
 
 ## 🛠️ Tools & Technologies
 
