@@ -47,6 +47,18 @@ Although implemented on a **small-scale dataset**, the pipeline is **scalable** 
    - Input test set is automatically transformed and predicted.
    - Predictions are saved to `output.csv`.
 
+6. **Model Comparison
+
+To determine the most suitable algorithm for this regression task, multiple models were trained and evaluated using 10-fold cross-validation based on Root Mean Squared Error (RMSE). The comparison is as follows:
+
+| Model              | Mean RMSE |
+|-------------------|-----------|
+| Linear Regression | 163.80    |
+| Decision Tree     | 148.47    |
+| Random Forest     | 107.14    |
+
+✅ **Random Forest** was chosen as the final model due to its significantly better performance in terms of prediction error.
+
 ---
 
 ## 📂 Project Structure
