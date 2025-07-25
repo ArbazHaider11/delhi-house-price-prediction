@@ -44,10 +44,10 @@ Although implemented on a **small-scale dataset**, the pipeline is **scalable** 
    - Plotted Actual vs Predicted prices to inspect model fit.
 
 5. **Deployment Readiness**:
-   -Entire pipeline saved using joblib, allowing seamless deployment and reusability.
-   -The input test set is automatically transformed and passed through the model.
-   - Input test set is automatically transformed and predicted.
-   - Predictions are saved to `output.csv`.
+- The entire pipeline is saved using **`joblib`**, allowing seamless deployment and reusability.
+- The input test set is **automatically transformed and passed** through the model.
+- Predictions are **saved to `output.csv`** for easy access and evaluation.
+
 
 7. **Model Comparison
 
