@@ -49,7 +49,7 @@ Although implemented on a **small-scale dataset**, the pipeline is **scalable** 
 - Predictions are **saved to `output.csv`** for easy access and evaluation.
 
 
-7. **Model Comparison
+6. Model Comparison
 
 To determine the most suitable algorithm for this regression task, multiple models were trained and evaluated using 10-fold cross-validation based on Root Mean Squared Error (RMSE). The comparison is as follows:
 
